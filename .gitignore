@@ -1,0 +1,57 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+yarn-error.log
+*.log
+*.sql
+*.sqlite
+
+# Text editor files #
+#####################
+*.pyo
+*.pyc
+**/*~
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Folders #
+###########
+dist
+node_modules
+bower_components
+.vscode
+.idea
+
+# Project specific config files #
+#################################
+src/config/secret.js
+
