@@ -1,4 +1,4 @@
-const INACTIVE_TIMEOUT = 5000
+const INACTIVE_TIMEOUT = 35000
 
 module.exports = {
     INACTIVE_TIMEOUT,
